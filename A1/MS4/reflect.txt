@@ -1,0 +1,12 @@
+Name: Angadpreet Baidwan
+Student Number: 135421170
+Email: abaidwan1@myseneca.ca
+Section: P
+Assignment 1
+Milestone 4
+
+1) I think the assignment asked to code a struct, Contact, that holds three other structs as data members because it is a better way to organize code as all of the three structs within "Contact" are related and storing them within a single struct makes the code more readable and easier to work with.
+
+2) The most difficult part of the assignment was working with pointers alongside structs as it was unfamiliar and there were some syntax issues that I had to sort out when trying to store user input into structs using pointers. Overall the lab was a fun learning experience and not too frustrating.
+
+3) It took me about 2 hours to complete Milestone 4.

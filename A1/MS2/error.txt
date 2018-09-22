@@ -1,0 +1,10 @@
+a1ms2.c: In function ‘main’:
+a1ms2.c:39:2: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[31]’ [-Wformat]
+a1ms2.c:44:3: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[7]’ [-Wformat]
+a1ms2.c:48:2: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[36]’ [-Wformat]
+a1ms2.c:54:2: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[41]’ [-Wformat]
+a1ms2.c:63:2: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[8]’ [-Wformat]
+a1ms2.c:65:2: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[41]’ [-Wformat]
+a1ms2.c:72:3: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[21]’ [-Wformat]
+a1ms2.c:79:3: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[21]’ [-Wformat]
+a1ms2.c:86:3: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[21]’ [-Wformat]

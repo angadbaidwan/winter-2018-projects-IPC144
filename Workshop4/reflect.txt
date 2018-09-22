@@ -1,0 +1,11 @@
+Name: Angadpreet Baidwan
+Student Number: 135421170
+Email: abaidwan1@myseneca.ca
+Section: P
+Workshop: 4
+
+1)The arrays in this program has to hold 10 elements because that is the maximum number of days for which data can be inputted within the program. Therefore, the arrays cannot have a size less than 10 and since data is being received as input, a specific size has to be set.
+
+2) The advantages of using matching or parallel arrays is that it is convenient as it allows one to update different data pertaining to the same item often within the same iteration loop. A potential downside could be that it may not be effective for cases in which one needs to treat data pertaining to the same item completely differently in which case the coder may lack flexibility to do what they want.
+
+3) I believe that the workshop was just right in terms of difficulty because it was challenging enough to be engaging but not so hard or tedious as to have been a cause for frustration.

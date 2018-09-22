@@ -1,0 +1,10 @@
+Name: Angadpreet Baidwan
+Student Number: 135421170
+Email: abaidwan1@myseneca.ca
+Section: P
+Assignment 2
+Milestone 2
+
+1) A function is a section of code that is used to carry out a specific task or procedure. Functions are often written for reusability and are essential to any programming language as they allow for code to modular and reusable. This helps both reduce complexity (making it easier to read and edit code) and makes coding a lot more time efficient.
+
+2) I think the helper functions are in a different module than the contacts module so as to make the code more modular and therefore easier to work with. This reduces the code present in each module and makes it easier and faster to find and edit specific sections of the code without having to sort through all of the code.

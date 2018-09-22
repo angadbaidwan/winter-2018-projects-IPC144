@@ -1,0 +1,10 @@
+Name: Angadpreet Baidwan
+Student Number: 135421170
+Email: abaidwan1@myseneca.ca
+Section: P
+Assignment 1
+Milestone 2
+
+1) One potentially more efficient way of getting data from the user would be to allow the user to select which optional information the user wants to provide from a menu screen. This will make it so that the user does not have to be prompted for optional information every time and instead the user can just decide by looking at the menu screen and quickly provide the information without having to potentially decline multiple seperate prompts for optional information which the user is not interested in providing.
+
+2) A character string that is required to store up to 25 characters must be capable of storing 26 characters because the string must have space to store the null terminator which follows the last meaningful character in the string. The null terminator is identified by the escape sequence '/0' and as a result, requires the string size to be greater than the number of meaningful characters within the string.
