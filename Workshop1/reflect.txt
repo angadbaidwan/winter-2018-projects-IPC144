@@ -1,0 +1,10 @@
+Name: Angadpreet Baidwan
+Student ID: 135421170
+Workshop #: Workshop 1
+Date: 2018-01-22
+
+In workshop 1, I first learned how to create a new project and add files to existing projects using visual studio.
+I then learned how to write a basic program that prints text using "printf".
+I also found out how to test programs using both visual studio and remote host (matrix).
+Lastly, I learned how to transfer files to the matrix server and how to submit documents.
+

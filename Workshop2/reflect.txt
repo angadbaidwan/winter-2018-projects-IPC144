@@ -1,0 +1,17 @@
+Name: Angadpreet Baidwan
+Student ID: 135421170
+Workshop #: Workshop 2
+Date: 2018-01-29
+
+I believe the most important thing that I learned during this workshop was how to evaluate various expressions and calculations in C resulting in the creation of a practical program.
+I also learned how to get and store user input as well as print variable values.
+
+It is important to add .005 to the value derived when calculating the GST owing as the compiler does not automatically round up when neccessary. 
+For example, 13.478 will be rounded down to 13.47 rather than be appropriately rounded up to 13.48. 
+Now adding 0.005 allows the program to round up any GST amount >= 13.475 but < 13.485, for example, to 13.48. 
+This means the program will appropriately round up or round down rather than always rounding down.
+
+A casting operation allows the compiler to process a variable as a different variable type for a single time without having to permanently change the variable type which can be useful in certain scenerios.
+For example in the workshop, using a casting operation allowed me to display the value stored within the int variable "intBalance" as a decimal with 2 digits of precision.
+
+I believe we were required to use the modulus operator because it showed that there are multiple ways to solve a problem as well as to familiarize ourselves with the modulus operator as it can be easily overlooked but can prove useful or necessary in certain situations.
